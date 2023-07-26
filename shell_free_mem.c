@@ -1,5 +1,5 @@
 #include "shell.h"
-#include "alias.h"
+#include "shell_alias.h"
 #include "shellvars.h"
 
 char ***getenviron();
